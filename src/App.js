@@ -27,7 +27,7 @@ const DeleteAccountInstructions = () => {
         width: "100vw",
         fontFamily: "Arial, sans-serif",
         boxSizing: "border-box",
-        padding: "20px",
+        padding: "0px 20px 0px 20px",
       }}
     >
       {/* Navbar */}
